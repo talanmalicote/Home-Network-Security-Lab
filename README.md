@@ -54,10 +54,3 @@ home-network-security-lab/
 
 VirtualBox · VMware · Python · Nmap · pfSense · Wireshark · Snort · Ubuntu/Linux
 
-## Status
-
-⚠️ Placeholder/example code reconstructed for portfolio purposes — validate all rules and scripts in an isolated lab before running against any network you don't own.
-
-## Author
-
-Talan Malicote — [github.com/talanmalicote](https://github.com/talanmalicote)
